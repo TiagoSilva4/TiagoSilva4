@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-About Me
-🎓 Senior Computer Science major at James Madison University
-🔭 Passionate about software development and problem-solving
-🌱 Currently learning about distributed & parallel systems, applied algorithms, and application development
-
-Contact
-📫 Email: tiagos3373@gmail.com
 <!--
 **TiagoSilva4/TiagoSilva4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me
+
+🎓 Senior Computer Science major at James Madison University
+
+🔭 Passionate about software development and problem-solving
+
+🌱 Currently learning about distributed & parallel systems, applied algorithms, and application development
+
+Contact
+
+📫 Email: tiagos3373@gmail.com
